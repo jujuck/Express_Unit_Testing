@@ -1,6 +1,9 @@
 # NODE MUSIC - Express an,d Integration TEST
 Git clone this project, and run npm install
 Setup your `.env` file, and then source the `database.sql` file to create your database.
+
+Follow an example on this video https://drive.google.com/file/d/1ibbFK6wUOY-7GLnefVpdKileRu1vKqXj/view?usp=sharing
+
 ### Getting started :point_down:
 
 The project comes with a boilerplate, _nearly_ already configured. (Eslint and Prettier)
@@ -49,13 +52,9 @@ src
 ├── api
 │   ├── index.js
 │   ├── albums
-│   │   ├── albums.routes.js
-│   │   ├── getAll.js
-│   │   └── ...
+│   │   ├── albumsController.js
 │   └── tracks
-│       ├── tracks.routes.js
-│       ├── getAll.js
-│       └── ...
+│       ├── tracksController.js
 ├── app.js
 ├── index.js
 └── middlewares.js
