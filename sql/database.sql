@@ -1,6 +1,3 @@
-CREATE DATABASE prep_checkpoint3_and_test;
-USE prep_checkpoint3_and_test;
-
 CREATE TABLE albums (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(255) NOT NULL,
