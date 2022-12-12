@@ -8,7 +8,8 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "prettier": "pretty-quick --staged",
-    "lint": "lint-staged"
+    "lint": "lint-staged",
+    "migrate": "node migrate.js"
   },
   "jest": {
     "verbose": true,
