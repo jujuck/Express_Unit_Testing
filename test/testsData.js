@@ -12,7 +12,7 @@ const albumToCreate = {
 const trackToCreate = {
   title: 'Another Brick In The Wall',
   youtube_url: 'https://www.youtube.com/watch?v=YR5ApYxkU-U',
-  id_album: 4,
+  id_album: 2,
 };
 
 module.exports = {
