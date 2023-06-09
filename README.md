@@ -2,7 +2,6 @@
 Git clone this project, and run npm install
 Setup your `.env` file, and then source the `database.sql` file to create your database or run `npm run migrate`
 
-Follow an example on this video https://drive.google.com/file/d/1ibbFK6wUOY-7GLnefVpdKileRu1vKqXj/view?usp=sharing
 
 ### Getting started :point_down:
 
