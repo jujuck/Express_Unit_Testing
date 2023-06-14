@@ -21,7 +21,7 @@ CREATE TABLE track (
     id_album INT NOT NULL,
     CONSTRAINT `fk_albumsid`
     FOREIGN KEY (`id_album`)
-    REFERENCES `prep_checkpoint3_and_test`.`albums` (`id`) ON DELETE CASCADE
+    REFERENCES `albums` (`id`) ON DELETE CASCADE
 );
 
 INSERT INTO track
