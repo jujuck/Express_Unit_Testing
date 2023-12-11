@@ -11,7 +11,7 @@ INSERT INTO albums
   (title, genre, picture, artist)
   VALUES
   ('Nevermind', "Grunge", "swimming_baby.png", "Nirvana"),
-  ('Welcome to the cruel Worlg', "Rock", "smoking_man.png", "Ben Harper"),
+  ('Welcome to the cruel World', "Rock", "smoking_man.png", "Ben Harper"),
   ('By The Way', "Rock", "Standing_man.png", "RHCP");
 
 CREATE TABLE track (
